@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring software engineer aiming to master Harness engineering and LLM integrations.<br>I mainly develop in Java but am fully comfortable working across Python and web technologies (HTML/CSS/JS). <br>Currently picking up C and always eager to build clean, efficient software. <br>Offline, I have interests on weightlifting, games, movies and hip-hop.
+💻 Aspiring software engineer aiming to master Harness engineering and LLM integrations.<br>☕ I mainly develop in Java but am fully comfortable working across Python and web technologies (HTML/CSS/JS). <br>⚙️ Currently picking up C and always eager to build clean, efficient software. <br>🏋️‍♂️ Offline, I have interests on weightlifting, games, movies and hip-hop.
 
 
 ## 🌐 Socials:
