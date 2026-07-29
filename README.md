@@ -46,13 +46,4 @@ I have 6767+ years of experience...
 ...in prompting.
 0 of them in actual coding.
 
-My GitHub graph isn't green from contributions—
-it's green from the sheer volume of API calls I make.
 
-AMA about:
-
-How to engineer a prompt
-
-How to engineer a deployment
-
-How to not engineer a scalable architecture
