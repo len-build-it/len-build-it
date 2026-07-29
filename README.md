@@ -60,3 +60,6 @@ Fuck no.
 I have **6767+ years of experience**... in prompting.
 *0 of them in actual coding.*
 
+---
+
+And as you have assumed, I love having fun
