@@ -1,24 +1,58 @@
-# 💫 About Me:
-💻 Aspiring software engineer aiming to master Harness engineering and LLM integrations.<br>☕ I mainly develop in Java but am fully comfortable working across Python and web technologies (HTML/CSS/JS). <br>⚙️ Currently picking up C and always eager to build clean, efficient software. <br>🏋️‍♂️ Offline, I have interests on weightlifting, games, movies and hip-hop.
+I am a slop engineer
 
+Do I know how to code without AI?
+Yes!
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Ark.Dcl/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/len.build.it/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenard-angelo-olajay-35b083366/) 
+Can I ship software products without AI?
+Fuck no
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=len-build-it&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=len-build-it&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=len-build-it&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I am productivity-maxxed, context-window-pilled, and token-brained.
+My IDE is just a chat window with extra steps.
+My git commits are 90% "fix: copilot made me do it" and 10% "whoops".
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=len-build-it&theme=catppuccin_latte&no-frame=false&no-bg=false&margin-w=4)
+I speak three languages fluently:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+Dart (the one I pretend to know)
 
----
-[![](https://komarev.com/ghpvc/?username=len-build-it&icon=0&color=0)](https://visitcount.itsvg.in)
+Java (the one I actually write)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"Please fix this error" (the one I use most)
+
+My workflow:
+
+Type a vague comment
+
+Tab complete my way to enlightenment
+
+Copy-paste error into ChatGPT
+
+Paste solution back in
+
+git push --force
+
+Cry in production
+
+I don't debug. I regenerate.
+I don't refactor. I start a new chat.
+I don't write tests. I write "it worked on my machine" in the PR description.
+
+My stack?
+
+Claude, Chatgpt and Deepseek 
+
+Deployment: --yes flag and a prayer
+
+I have 6767+ years of experience...
+...in prompting.
+0 of them in actual coding.
+
+My GitHub graph isn't green from contributions—
+it's green from the sheer volume of API calls I make.
+
+AMA about:
+
+How to engineer a prompt
+
+How to engineer a deployment
+
+How to not engineer a scalable architecture
