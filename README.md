@@ -58,7 +58,7 @@ Fuck no.
 ### ⏳ Experience
 
 I have **6767+ years of experience**... in prompting.
-*0 of them in actual coding.*
+*1 of them in actual coding.*
 
 ---
 
