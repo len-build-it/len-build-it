@@ -1,8 +1,8 @@
+<div align="center">
+
 <img src="764938212_122183124626878900_3088215230800673996_n.jpg"
      width="700"
      alt="Presenting at AI Fest 2026 Hackathon"/>
-
-<div align="center">
 
 # 👋 Hi, I'm Lenard Angelo.
 
