@@ -4,6 +4,15 @@
      width="700"
      alt="Presenting at AI Fest 2026 Hackathon"/>
 
+<img src="669ca8c6-5862-411e-861e-7cfae6ae8a0a.jpg"
+     width="700"
+     alt="Presenting at RSC 2026 Hackathon"/>
+
+<img src="a213be72-9f90-4dd3-8b3b-45a3b7897e0d.jpg"
+     width="700"
+     alt="Presenting at AI Fest 2026 Hackathon"/>
+     
+
 # 👋 Hi, I'm Lenard Angelo.
 
 ### *I build software using the English language.*
