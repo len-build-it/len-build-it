@@ -1,159 +1,102 @@
 <div align="center">
 
-<img src="764938212_122183124626878900_3088215230800673996_n.jpg"
-     width="700"
-     alt="Presenting at AI Fest 2026 Hackathon"/>
+# 👋 Hi, I'm Lenard Angelo
 
-<img src="669ca8c6-5862-411e-861e-7cfae6ae8a0a.jpg"
-     width="700"
-     alt="Presenting at RSC 2026 Hackathon"/>
+<strong><em>I turn clear ideas into working software.</em></strong>
 
-<img src="a213be72-9f90-4dd3-8b3b-45a3b7897e0d.jpg"
-     width="700"
-     alt="Presenting at AI Fest 2026 Hackathon"/>
-     
+Software Engineering student from the Philippines building useful products, leading communities, and shipping with modern AI-assisted development.
 
-# 👋 Hi, I'm Lenard Angelo.
-
-### *I build software using the English language.*
-
-*Sometimes I write Java.*  
-*Most of the time, I explain what I want well enough that Java writes itself.*
-
-> *Building products, leading communities, and shipping ideas with modern AI-assisted development.*
+<img src="https://komarev.com/ghpvc/?username=len-build-it&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="len-build-it profile views" />
 
 </div>
 
----
+<div align="center">
 
-# 🚀 Highlights
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="764938212_122183124626878900_3088215230800673996_n.jpg">
+  <img src="profile-hero.gif" width="900" alt="Lenard and his teams presenting projects at AI Fest, RSC, and KomsaiHack 2026" />
+</picture>
 
-- 👨‍💻 **Founder** of **ASU DevGuild** — a student-led developer community at Aklan State University.
-- 🏆 Hackathon participant and project lead.
-- 🌊 Building software that solves real-world problems.
-- 📱 Full-stack developer focused on Flutter, FastAPI, and PostgreSQL.
-- 🤖 AI-assisted developer who believes clear communication is an engineering skill.
+<sub>Presenting projects at AI Fest, RSC, and KomsaiHack 2026.</sub>
 
----
+</div>
 
-# 💻 About Me
+## 🚀 Featured builds
 
-I'm a Software Engineering student from the Philippines with a passion for building products that make a real impact.
+### [🛟 AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)
 
-I enjoy taking an idea from a whiteboard sketch to a working application—designing the architecture, building the backend, crafting the user experience, and continuously improving it through iteration.
+An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers operating beyond cellular coverage. Built by Team Aquanons for AI Fest 2026.
 
-While many developers write code first and think later, I prefer to think first, describe the solution clearly, and use modern AI tools to accelerate implementation. To me, AI isn't a replacement for engineering—it's another tool that helps me spend more time solving problems and less time writing boilerplate.
+**Lead developer** — backend, architecture, and deployment. Authored **256 of 303 default-branch commits (84.5%)**, verified on August 31, 2026.
 
-At the end of the day, I still review the code, fix the bugs, make the architectural decisions, and take responsibility for everything I ship.
+`Flutter` `FastAPI` `PostgreSQL` `scikit-learn` `ESP32` `LoRa`
 
----
+| | |
+|---|---|
+| **[🗺️ Warang](https://github.com/len-build-it/Warang)** | **[🌊 Project Tabang](https://github.com/len-build-it/Project_Tabang)** |
+| An offline-first map of your own photographs. Capture a moment and rediscover it by place—without accounts, feeds, or uploaded memories. | A flood reporting and response app for Aklan, connecting residents, responders, and reviewers during emergencies. |
+| `Flutter` `Riverpod` `Drift` `SQLite` `OpenStreetMap` | `React` `Firebase` `Cloudinary` `Node.js` |
 
-# 🛠 Tech Stack
+## 👨‍💻 About me
 
-### Languages
+I'm a Software Engineering student who enjoys taking an idea from a whiteboard sketch to a working product—planning the architecture, building the backend, crafting the experience, and improving it through real feedback.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm also the founder of **ASU DevGuild**, a student-led developer community at Aklan State University. I use AI to accelerate implementation, but I still review the code, make the engineering decisions, test the result, and take responsibility for what ships.
 
-### Frameworks & Tools
+## 🏆 Building in public
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+- Founded **ASU DevGuild** to help students learn and build together.
+- Lead developer of **[AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)**, an AI-assisted maritime safety platform built for AI Fest 2026.
+- Lead and present projects at hackathons and technology events.
+- Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
+- Explore mobile development, backend systems, cloud infrastructure, IoT, and geospatial applications.
 
----
+## 🛠 Technology
 
-# 🤝 Meet My Co-Workers
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
-These teammates never ask for coffee breaks, but they occasionally hallucinate.
+## ⚙️ How I build
 
-| Co-Worker | Specialty |
-|-----------|-----------|
-| 🤖 **ChatGPT** | System design, architecture, debugging, and explaining why my code broke. |
-| 🧠 **Claude** | Long-form reasoning, documentation, and code reviews. |
-| ⚡ **DeepSeek** | Fast implementations and algorithmic problem solving. |
-| 🚀 **GitHub Copilot** | Autocomplete with suspicious amounts of confidence. |
+`Idea` → `Describe it clearly` → `Build with AI` → `Review` → `Test` → `Ship` → `Repeat`
 
-> *The best engineers don't avoid great tools—they learn how to use them effectively.*
+## 📜 Engineering philosophy
 
----
-
-# ⚙️ My Development Workflow
-
-```text
-💡 Have an idea
-        │
-        ▼
-📝 Describe it in English
-        │
-        ▼
-🤝 Collaborate with my co-workers
-        │
-        ▼
-👨‍💻 Review every line of code
-        │
-        ▼
-🧪 Test and iterate
-        │
-        ▼
-🚀 Deploy
-        │
-        ▼
-🐞 Fix the bugs I definitely didn't create
-        │
-        ▼
-🔁 Repeat
-```
-
----
-
-# 📜 Engineering Philosophy
-
-> **Programming languages tell computers _how_.**
->
-> **English explains _what_.**
->
+> **Programming languages tell computers _how_.**<br>
+> **English explains _what_.**<br>
 > **Great software starts with communicating the problem clearly.**
 
-Modern AI has changed how software is built, but not what makes software good.
+AI helps me build faster. Engineering judgment decides what ships.
 
-Good engineering still requires thoughtful architecture, careful debugging, solid testing, and a deep understanding of the systems you're building.
+<details>
+<summary><strong>🤝 Meet my AI co-workers</strong></summary>
 
-AI helps me build faster.
+| Co-worker | Specialty |
+|---|---|
+| **ChatGPT** | System design, architecture, and debugging |
+| **Claude** | Documentation and code review |
+| **DeepSeek** | Fast implementation and algorithms |
+| **GitHub Copilot** | In-editor assistance and autocomplete |
 
-Engineering helps me build better.
+</details>
 
----
+## 📫 Let's connect
 
-# 📈 Currently Exploring
+I'm interested in useful products, community-driven technology, and ambitious ideas that deserve to become real software.
 
-- 🧠 Artificial Intelligence
-- 📱 Cross-platform Mobile Development
-- ⚡ Backend Engineering
-- ☁️ Cloud Infrastructure
-- 🛰️ IoT & Edge Computing
-- 🗺️ Geospatial Applications
-
----
-
-# ☕ Fun Facts
-
-- 💬 I probably spend more time talking to AI than typing syntax.
-- 🐛 Every bug is an opportunity to learn (or blame undefined behavior).
-- 🚀 Shipping is a feature.
-- 📖 Documentation is my favorite plot twist.
-- 🎯 I enjoy turning ambitious ideas into working products.
-
----
+**[Explore my repositories →](https://github.com/len-build-it?tab=repositories)**
 
 <div align="center">
 
-### *"Software is built twice: first in language, then in code."*
+<strong><em>“Software is built twice: first in language, then in code.”</em></strong>
 
 Thanks for stopping by! ⭐
 
