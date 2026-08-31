@@ -1,5 +1,16 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="764938212_122183124626878900_3088215230800673996_n.jpg">
+  <img src="profile-hero.gif" width="900" alt="Lenard and his teams presenting projects at AI Fest, RSC, and KomsaiHack 2026" />
+</picture>
+
+<sub>Presenting projects at AI Fest, RSC, and KomsaiHack 2026.</sub>
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Lenard Angelo
 
 <strong><em>I turn clear ideas into working software.</em></strong>
@@ -7,17 +18,6 @@
 Software Engineering student from the Philippines building useful products, leading communities, and shipping with modern AI-assisted development.
 
 <img src="https://komarev.com/ghpvc/?username=len-build-it&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="len-build-it profile views" />
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="764938212_122183124626878900_3088215230800673996_n.jpg">
-  <img src="profile-hero.gif" width="900" alt="Lenard and his teams presenting projects at AI Fest, RSC, and KomsaiHack 2026" />
-</picture>
-
-<sub>Presenting projects at AI Fest, RSC, and KomsaiHack 2026.</sub>
 
 </div>
 
