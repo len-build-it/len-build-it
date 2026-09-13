@@ -15,7 +15,7 @@
 
 <strong><em>I turn clear ideas into working software.</em></strong>
 
-Aspiring AI Solutions Architect and Software Engineering student from the Philippines with experience in rapid prototyping.
+Startup founder of **Aquanons** (building **AqOne**) • Aspiring AI Solutions Architect and Software Engineering student from the Philippines with experience in rapid prototyping.
 
 <img src="https://komarev.com/ghpvc/?username=len-build-it&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="len-build-it profile views" />
 
@@ -27,7 +27,7 @@ Aspiring AI Solutions Architect and Software Engineering student from the Philip
 
 An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers operating beyond cellular coverage. Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** (out of 200+ entries) in Enactus Philippines 2026.
 
-**Lead developer** — backend, architecture, and deployment. Authored **256 of 303 default-branch commits (84.5%)**, verified on August 31, 2026.
+**Founder & lead developer** — backend, architecture, and deployment. Authored **256 of 303 default-branch commits (84.5%)**, verified on August 31, 2026.
 
 `Flutter` `FastAPI` `PostgreSQL` `scikit-learn` `ESP32` `LoRa`
 
@@ -39,9 +39,11 @@ An offline maritime safety network and AI-assisted search-and-rescue platform fo
 
 ## 👨‍💻 About me
 
+I'm a start-up founder of **Aquanons**, where we're currently building **AqOne** to bring offline maritime safety and search-and-rescue capabilities to municipal fishers.
+
 I enjoy planning architecture, building backends, crafting user experiences, and improving products through real feedback. My interests span mobile development, cloud infrastructure, IoT, and geospatial applications.
 
-I founded **ASU DevGuild**, a student-led organization at Aklan State University connected with 2 highly experienced mentors and over 30+ aspiring developers, helping students learn and build together.
+I also founded **ASU DevGuild**, a student-led organization at Aklan State University connected with 2 highly experienced mentors and over 30+ aspiring developers, helping students learn and build together.
 
 ## 🏆 Building in public
 
