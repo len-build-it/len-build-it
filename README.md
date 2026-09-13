@@ -15,7 +15,7 @@
 
 <strong><em>I turn clear ideas into working software.</em></strong>
 
-Aspiring AI Solutions Architect and Software Engineering student from the Philippines experienced in rapid prototyping and dedicated to solving real-world problems with technological solutions, leading communities, and shipping with modern AI-assisted development.
+Aspiring AI Solutions Architect and Software Engineering student from the Philippines with experience in rapid prototyping.
 
 <img src="https://komarev.com/ghpvc/?username=len-build-it&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="len-build-it profile views" />
 
@@ -39,19 +39,16 @@ An offline maritime safety network and AI-assisted search-and-rescue platform fo
 
 ## 👨‍💻 About me
 
-I'm an aspiring AI Solutions Architect and Software Engineering student passionate about solving real-world problems with technological solutions. With experience in rapid prototyping, I enjoy taking an idea from a whiteboard sketch to a working product—planning the architecture, building the backend, crafting the experience, and improving it through real feedback.
+I enjoy planning architecture, building backends, crafting user experiences, and improving products through real feedback. My interests span mobile development, cloud infrastructure, IoT, and geospatial applications.
 
-I'm also the founder of **ASU DevGuild**, a student-led developer community at Aklan State University. I use AI to accelerate implementation, but I still review the code, make the engineering decisions, test the result, and take responsibility for what ships.
+I founded **ASU DevGuild**, a student-led developer community at Aklan State University, to help students learn and build together.
 
 ## 🏆 Building in public
 
-- Founded **ASU DevGuild** to help students learn and build together.
-- Lead developer of **[AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)**, an AI-assisted maritime safety platform that advanced to the **Top 60 nationwide** in Enactus Philippines 2026.
-- **1st Place Champion** at the CCS ICT Days Programming Competition.
+- **1st place** at the CCS ICT Days Programming Competition.
 - Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
-- Rapidly prototype, lead, and present projects at hackathons and tech events (AI Fest, New Energy Nexus, RSC).
+- Led and presented projects at hackathons and tech events, including New Energy Nexus and RSC.
 - Completed **DICT Region VI** Python Programming Essential Training.
-- Explore mobile development, backend systems, cloud infrastructure, IoT, and geospatial applications.
 
 ## 🛠 Technology
 
@@ -70,13 +67,11 @@ I'm also the founder of **ASU DevGuild**, a student-led developer community at A
 
 `Idea` → `Describe it clearly` → `Build with AI` → `Review` → `Test` → `Ship` → `Repeat`
 
-## 📜 Engineering philosophy
-
 > **Programming languages tell computers _how_.**<br>
 > **English explains _what_.**<br>
 > **Great software starts with communicating the problem clearly.**
 
-AI helps me build faster. Engineering judgment decides what ships.
+I use AI to accelerate implementation while reviewing the code, testing the result, and taking responsibility for what ships.
 
 <details>
 <summary><strong>🤝 Meet my AI co-workers</strong></summary>
@@ -97,8 +92,6 @@ I'm interested in useful products, community-driven technology, and ambitious id
 **[Explore my repositories →](https://github.com/len-build-it?tab=repositories)**
 
 <div align="center">
-
-<strong><em>“Software is built twice: first in language, then in code.”</em></strong>
 
 Thanks for stopping by! ⭐
 
