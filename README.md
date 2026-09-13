@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="764938212_122183124626878900_3088215230800673996_n.jpg">
-  <img src="profile-hero.gif" width="900" alt="Lenard and his teams across AI Fest, Enactus Philippines, New Energy Nexus, CCS Programming Competition, KomsaiHack, and DICT" />
+  <img src="profile-hero.gif" width="900" alt="Lenard and his teams across AI Fest, Enactus Philippines, New Energy Nexus, ASU DevGuild, CCS Programming Competition, KomsaiHack, and DICT" />
 </picture>
 
-<sub>Presenting and prototyping at AI Fest, Enactus Philippines, New Energy Nexus, CCS Programming Competition, KomsaiHack, and DICT.</sub>
+<sub>Presenting, prototyping, and community building across AI Fest, Enactus Philippines, New Energy Nexus, ASU DevGuild, CCS Programming Competition, KomsaiHack, and DICT.</sub>
 
 </div>
 
