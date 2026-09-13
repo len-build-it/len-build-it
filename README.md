@@ -41,7 +41,7 @@ An offline maritime safety network and AI-assisted search-and-rescue platform fo
 
 I enjoy planning architecture, building backends, crafting user experiences, and improving products through real feedback. My interests span mobile development, cloud infrastructure, IoT, and geospatial applications.
 
-I founded **ASU DevGuild**, a student-led developer community at Aklan State University, to help students learn and build together.
+I founded **ASU DevGuild**, a student-led organization at Aklan State University connected with 2 highly experienced mentors and over 30+ aspiring developers, helping students learn and build together.
 
 ## 🏆 Building in public
 
