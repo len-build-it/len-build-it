@@ -15,7 +15,7 @@
 
 <strong><em>I turn clear ideas into working software.</em></strong>
 
-Software Engineering student from the Philippines building useful products, leading communities, and shipping with modern AI-assisted development.
+Aspiring AI Solutions Architect and Software Engineering student from the Philippines dedicated to solving real-world problems with technological solutions, leading communities, and shipping with modern AI-assisted development.
 
 <img src="https://komarev.com/ghpvc/?username=len-build-it&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="len-build-it profile views" />
 
@@ -39,7 +39,7 @@ An offline maritime safety network and AI-assisted search-and-rescue platform fo
 
 ## 👨‍💻 About me
 
-I'm a Software Engineering student who enjoys taking an idea from a whiteboard sketch to a working product—planning the architecture, building the backend, crafting the experience, and improving it through real feedback.
+I'm an aspiring AI Solutions Architect and Software Engineering student passionate about solving real-world problems with technological solutions. I enjoy taking an idea from a whiteboard sketch to a working product—planning the architecture, building the backend, crafting the experience, and improving it through real feedback.
 
 I'm also the founder of **ASU DevGuild**, a student-led developer community at Aklan State University. I use AI to accelerate implementation, but I still review the code, make the engineering decisions, test the result, and take responsibility for what ships.
 
