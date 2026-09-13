@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="764938212_122183124626878900_3088215230800673996_n.jpg">
-  <img src="profile-hero.gif" width="900" alt="Lenard and his teams presenting projects at AI Fest, RSC, and KomsaiHack 2026" />
+  <img src="profile-hero.gif" width="900" alt="Lenard and his teams across AI Fest, Enactus Philippines, New Energy Nexus, CCS Programming Competition, KomsaiHack, and DICT" />
 </picture>
 
-<sub>Presenting projects at AI Fest, RSC, and KomsaiHack 2026.</sub>
+<sub>Presenting and prototyping at AI Fest, Enactus Philippines, New Energy Nexus, CCS Programming Competition, KomsaiHack, and DICT.</sub>
 
 </div>
 
@@ -25,7 +25,7 @@ Aspiring AI Solutions Architect and Software Engineering student from the Philip
 
 ### [🛟 AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)
 
-An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers operating beyond cellular coverage. Built by Team Aquanons for AI Fest 2026.
+An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers operating beyond cellular coverage. Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** (out of 200+ entries) in Enactus Philippines 2026.
 
 **Lead developer** — backend, architecture, and deployment. Authored **256 of 303 default-branch commits (84.5%)**, verified on August 31, 2026.
 
@@ -46,9 +46,11 @@ I'm also the founder of **ASU DevGuild**, a student-led developer community at A
 ## 🏆 Building in public
 
 - Founded **ASU DevGuild** to help students learn and build together.
-- Lead developer of **[AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)**, an AI-assisted maritime safety platform built for AI Fest 2026.
-- Rapidly prototype, lead, and present projects at hackathons and technology events.
+- Lead developer of **[AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)**, an AI-assisted maritime safety platform that advanced to the **Top 60 nationwide** in Enactus Philippines 2026.
+- **1st Place Champion** at the CCS ICT Days Programming Competition.
 - Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
+- Rapidly prototype, lead, and present projects at hackathons and tech events (AI Fest, New Energy Nexus, RSC).
+- Completed **DICT Region VI** Python Programming Essential Training.
 - Explore mobile development, backend systems, cloud infrastructure, IoT, and geospatial applications.
 
 ## 🛠 Technology
