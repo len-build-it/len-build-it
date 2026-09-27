@@ -13,9 +13,11 @@
 
 # 👋 Hi, I'm Lenard Angelo
 
-<strong><em>I turn clear ideas into working software.</em></strong>
+<strong><em>I use generative AI in my development process to build real-world solutions.</em></strong>
 
-Startup founder of **Aquanons** (building **AqOne**) • Aspiring AI Solutions Architect and Software Engineering student from the Philippines with experience in rapid prototyping.
+Aspiring **Generative AI Specialist** and Software Engineering student from the Philippines.
+
+Startup founder of **Aquanons**, building **AqOne**.
 
 <img src="https://komarev.com/ghpvc/?username=len-build-it&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="len-build-it profile views" />
 
@@ -25,25 +27,34 @@ Startup founder of **Aquanons** (building **AqOne**) • Aspiring AI Solutions A
 
 ### [🛟 AqOne](https://github.com/Aquanons/AIHackathon2026_Aquanons_AqOne)
 
-An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers operating beyond cellular coverage. Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** (out of 200+ entries) in Enactus Philippines 2026.
+An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers beyond cellular coverage.
+Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** (out of 200+ entries) in Enactus Philippines 2026.
 
-**Founder & lead developer** — backend, architecture, and deployment. Authored **256 of 303 default-branch commits (84.5%)**, verified on August 31, 2026.
+**My role:** Founder and lead developer for backend, architecture, and deployment.
 
 `Flutter` `FastAPI` `PostgreSQL` `scikit-learn` `ESP32` `LoRa`
 
-| | |
-|---|---|
-| **[🗺️ Warang](https://github.com/len-build-it/Warang)** | **[🌊 Project Tabang](https://github.com/len-build-it/Project_Tabang)** |
-| An offline-first map of your own photographs. Capture a moment and rediscover it by place—without accounts, feeds, or uploaded memories. | A flood reporting and response app for Aklan, connecting residents, responders, and reviewers during emergencies. |
-| `Flutter` `Riverpod` `Drift` `SQLite` `OpenStreetMap` | `React` `Firebase` `Cloudinary` `Node.js` |
+---
+
+### [🗺️ Warang](https://github.com/len-build-it/Warang)
+
+An offline-first map for organizing and rediscovering your photos by place, without accounts, feeds, or uploads.
+
+`Flutter` `Riverpod` `Drift` `SQLite` `OpenStreetMap`
+
+---
+
+### [🌊 Project Tabang](https://github.com/len-build-it/Project_Tabang)
+
+A flood reporting and response app for Aklan, connecting residents, responders, and reviewers.
+
+`React` `Firebase` `Cloudinary` `Node.js`
 
 ## 👨‍💻 About me
 
-I'm a start-up founder of **Aquanons**, where we're currently building **AqOne** to bring offline maritime safety and search-and-rescue capabilities to municipal fishers.
-
 I enjoy planning architecture, building backends, crafting user experiences, and improving products through real feedback. My interests span mobile development, cloud infrastructure, IoT, and geospatial applications.
 
-I also founded **ASU DevGuild**, a student-led organization at Aklan State University connected with 2 highly experienced mentors and over 30+ aspiring developers, helping students learn and build together.
+I also founded **ASU DevGuild**, a student-led organization at Aklan State University, pairing over 30 aspiring developers with two experienced mentors.
 
 ## 🏆 Building in public
 
@@ -67,25 +78,12 @@ I also founded **ASU DevGuild**, a student-led organization at Aklan State Unive
 
 ## ⚙️ How I build
 
-`Idea` → `Describe it clearly` → `Build with AI` → `Review` → `Test` → `Ship` → `Repeat`
+`Real problem` → `Prototype with AI` → `Review` → `Test` → `Ship`
 
-> **Programming languages tell computers _how_.**<br>
-> **English explains _what_.**<br>
-> **Great software starts with communicating the problem clearly.**
+Across my projects, I use generative AI during development to prototype solutions.
+I review AI-assisted code, test the result, and take responsibility for what ships.
 
-I use AI to accelerate implementation while reviewing the code, testing the result, and taking responsibility for what ships.
-
-<details>
-<summary><strong>🤝 Meet my AI co-workers</strong></summary>
-
-| Co-worker | Specialty |
-|---|---|
-| **ChatGPT** | System design, architecture, and debugging |
-| **Claude** | Documentation and code review |
-| **DeepSeek** | Fast implementation and algorithms |
-| **GitHub Copilot** | In-editor assistance and autocomplete |
-
-</details>
+I'm interested in exploring how AI could add value inside future product features.
 
 ## 📫 Let's connect
 
