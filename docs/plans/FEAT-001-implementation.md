@@ -1,5 +1,13 @@
 # Implementation Plan: GitHub profile README refresh
 
+## October 3 RSTW stage photos maintenance phase
+
+Follow-up authorized by Len's request to add newly added photographs (RSTW-Awarding.png and RSTW-QA.png) to the repo and update README.md.
+Incorporate both photographs into the animated slideshow with matching 900x506 dimensions and 1,800 ms hold / two 150 ms fade timings across all 17 photos.
+Local checks passed: 17 photos, 51 frames, 35.7-second loop, 10,653,051 bytes.
+README updated with fresh asset URL (profile-hero-rstw-awarding.gif) to avoid caching, and updated caption/alt text.
+Checkpoint: docs(readme): add RSTW stage awarding and QA photos to profile hero.
+
 ## October 3 maintenance phase
 
 Follow-up authorized by Len's request to add newly added photographs (DTI-explaining.jpg and dti-most-innovative.jpg) to the repo and update README.md, then commit and push.

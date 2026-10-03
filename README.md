@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="rstw-champion.png">
-  <img src="profile-hero-rstw-dti.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship and DTI ASPIRE Demo Day win, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
+  <img src="profile-hero-rstw-awarding.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship on stage and DTI ASPIRE Demo Day win, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
 </picture>
 
-<sub>RSTW 2026 champions and DTI ASPIRE Most Innovative Startup with AqOne, alongside pitching, prototyping, and community-building moments.</sub>
+<sub>RSTW 2026 champions and DTI ASPIRE Most Innovative Startup with AqOne, alongside stage pitching, Q&A, prototyping, and community-building moments.</sub>
 
 </div>
 

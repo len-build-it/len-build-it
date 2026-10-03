@@ -1,5 +1,13 @@
 # FEAT-001: GitHub profile README refresh
 
+## October 3 RSTW stage photos addition amendment
+
+Recorded: 2026-10-03T22:56:00+08:00
+Len explicitly requested adding 2 new photographs (RSTW-Awarding.png and RSTW-QA.png) and updating README.md.
+Incorporate both photographs alongside existing photos in the animated hero slideshow (profile-hero-rstw-awarding.gif) with matching 900x506 dimensions and 1,800 ms hold / two 150 ms fade timings across all 17 photos.
+Update README.md hero image source, alt text, and caption to reflect the stage awarding and live Q&A presentation.
+Success: all 17 photographs appear in the slideshow, image references resolve, and no new dependency is introduced.
+
 ## October 3 authorized maintenance amendment
 
 Recorded: 2026-10-03T19:44:00+08:00

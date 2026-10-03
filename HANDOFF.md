@@ -1,12 +1,20 @@
 # Current handoff
 
-Updated: 2026-10-03T19:45:00+08:00
-Current work: DTI ASPIRE Demo Day photos addition, hero slideshow refresh, and README update, authorized by Len's October 3 request.
+Updated: 2026-10-03T22:58:00+08:00
+Current work: RSTW stage awarding and Q&A photos addition, hero slideshow refresh, and README update, authorized by Len's October 3 request.
 The September 27 handoff below is historical; its pending commit/push instructions do not authorize a new push.
 
 ## October 3 maintenance
 
-Latest addition: Len supplied new photographs (DTI-explaining.jpg and dti-most-innovative.jpg) from the DTI ASPIRE Startup Bootcamp Demo Day at TechNest Kalibo on September 22, 2026, where AqOne won Most Innovative Startup.
+Latest addition: Len supplied 2 new photographs (RSTW-Awarding.png and RSTW-QA.png) from the 2026 RSTW Student Startup Competition in Kalibo on October 2, 2026, where AqOne won Champion.
+Regenerated the hero animated slideshow to include all 17 active photographs with standard dimensions and smooth pacing (900x506, 1,800 ms hold, two 150 ms fade frames per photo).
+The new profile-hero-rstw-awarding.gif has 51 frames, a 35.7-second loop, and 10,653,051 bytes.
+README updated to reference the fresh asset profile-hero-rstw-awarding.gif to bypass CDN caching, with updated alt text and subcaption.
+Decoded frame metadata, durations, and sample frames (awarding ceremony, Q&A on mic) passed visual and integrity assertions.
+Replaced profile-hero-rstw-dti.gif with profile-hero-rstw-awarding.gif in the repository.
+Checkpoint: docs(readme): add RSTW stage awarding and QA photos to profile hero.
+
+Prior addition: Len supplied new photographs (DTI-explaining.jpg and dti-most-innovative.jpg) from the DTI ASPIRE Startup Bootcamp Demo Day at TechNest Kalibo on September 22, 2026, where AqOne won Most Innovative Startup.
 Regenerated the hero animated slideshow to include all 15 active photographs with restored dimensions and pacing (900x506, 1,800 ms hold, two 150 ms fade frames per photo).
 The new profile-hero-rstw-dti.gif has 45 frames, a 31.5-second loop, and 9,362,415 bytes.
 README updated to use the fresh asset URL to bypass CDN caching, updated caption and alt text, and added Most Innovative Startup recognition under AqOne and Building in public.
