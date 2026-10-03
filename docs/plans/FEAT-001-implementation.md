@@ -18,7 +18,10 @@ Completion is recorded by the checkpoint commit named below.
 - [x] Commit only reviewed maintenance paths in the checkpoint named below.
 
 Checkpoint: docs(readme): refresh RSTW championship and photo slideshow.
-Live GitHub rendering requires a future authorized push.
+The maintenance checkpoint was pushed as 04e9884 after Len authorized publication.
+The subsequent stale-image report was reproduced with a direct download of the published GIF.
+Rename the updated GIF and change its README reference, then publish under the existing push authorization and compare the remote SHA256 with the local file.
+Fix checkpoint: fix(readme): use fresh URL for RSTW photo slideshow.
 
 ## Original September 27 implementation plan
 

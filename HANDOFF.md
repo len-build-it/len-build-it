@@ -17,12 +17,17 @@ The GIF was decoded and checked: 800x600, 26 frames, 44.85 seconds, infinite loo
 The first frame was visually inspected; source photographs were contained without cropping.
 README diff and whitespace checks passed.
 Local image references exist; the three project repository links and live view counter remain present.
-GitHub desktop/narrow-screen rendering remains pending because this change has not been pushed.
+Len authorized pushing the maintenance update, and commit 04e9884 was pushed successfully.
+Following Len's stale-image report, the live profile was inspected: its new README markup still linked profile-hero.gif, but the raw URL returned the old 7,260,587-byte GIF with SHA256 28037167A55A518EC89861DF09244BF8C6010ADDAE27FF4639A329B83BBE97FD.
+The current GIF is 5,497,410 bytes with SHA256 618AC3FC15DE0DE137631FC1DF56E8BD96444D78AA5FD63234481E9544D2D1EF.
+Rename it to profile-hero-rstw-2026.gif and update the single README reference to give the refreshed asset a new URL.
+Checkpoint: fix(readme): use fresh URL for RSTW photo slideshow.
+Verify the published GIF hash and rendered profile image URL after pushing the fix.
+Full visual desktop/narrow-screen review remains pending.
 The required len-toolkit start check succeeded and installed 33 skills in each local agent skill folder; those setup changes are excluded from the content commit.
 The repository moved to 01-PORTFOLIO/GITHUB/len-build-it; writes needed sandbox approval because the task still lists the former folder as writable.
 Checkpoint: docs(readme): refresh RSTW championship and photo slideshow.
-Next action: review the local changes and authorize a push when ready.
-Publishing remains for Len to authorize.
+Push authorization persists from Len's push request; the rendering fix continues that published update.
 
 ## Historical September 27 handoff
 
