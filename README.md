@@ -1,11 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="764938212_122183124626878900_3088215230800673996_n.jpg">
-  <img src="profile-hero.gif" width="900" alt="Lenard and his teams across AI Fest, Enactus Philippines, New Energy Nexus, ASU DevGuild, CCS Programming Competition, KomsaiHack, and DICT" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="rstw-champion.png">
+  <img src="profile-hero.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
 </picture>
 
-<sub>Presenting, prototyping, and community building across AI Fest, Enactus Philippines, New Energy Nexus, ASU DevGuild, CCS Programming Competition, KomsaiHack, and DICT.</sub>
+<sub>RSTW 2026 champions with AqOne, alongside pitching, prototyping, and community-building moments.</sub>
 
 </div>
 
@@ -29,6 +29,9 @@ Startup founder of **Aquanons**, building **AqOne**.
 
 An offline maritime safety network and AI-assisted search-and-rescue platform for municipal fishers beyond cellular coverage.
 Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** (out of 200+ entries) in Enactus Philippines 2026.
+
+**Champion - 2026 RSTW Student Startup Competition**, organized by DOST Western Visayas in Kalibo, Aklan, on October 2, 2026.
+Team Aquanons will represent ASU-Kalibo at **Enactus Philippines on October 8-10, 2026**, at De La Salle University Manila.
 
 **My role:** Founder and lead developer for backend, architecture, and deployment.
 
@@ -58,6 +61,7 @@ I also founded **ASU DevGuild**, a student-led organization at Aklan State Unive
 
 ## 🏆 Building in public
 
+- **Champion** with AqOne at the **2026 RSTW Student Startup Competition** in Kalibo, Aklan (October 2, 2026).
 - **1st place** at the CCS ICT Days Programming Competition.
 - Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
 - Led and presented projects at hackathons and tech events, including New Energy Nexus and RSC.

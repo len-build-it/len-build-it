@@ -1,5 +1,27 @@
 # Implementation Plan: GitHub profile README refresh
 
+## October 3 maintenance phase
+
+Recorded: 2026-10-03T18:13:18+08:00
+Authorization: Len's October 3 request to update the current photographs and add AqOne's RSTW win.
+Implementation and local checks complete.
+Completion is recorded by the checkpoint commit named below.
+
+- [x] Inspect current files and preserve unrelated edits.
+- [x] Run the required len-toolkit setup check.
+- [x] Update championship, Enactus dates, hero description, and reduced-motion source.
+- [x] Rebuild the hero from 13 existing photographs, excluding the two deleted images.
+- [x] Decode GIF and verify frame count, size, duration, and looping.
+- [x] Visually inspect the championship opening frame and verify README image references.
+- [x] Review the README diff and run whitespace checks.
+- [x] Record evidence and current handoff.
+- [x] Commit only reviewed maintenance paths in the checkpoint named below.
+
+Checkpoint: docs(readme): refresh RSTW championship and photo slideshow.
+Live GitHub rendering requires a future authorized push.
+
+## Original September 27 implementation plan
+
 Created: 2026-09-27T20:20:38+08:00
 Updated: 2026-09-27T20:36:51+08:00
 Revision: 1

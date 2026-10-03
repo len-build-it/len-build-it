@@ -1,5 +1,31 @@
 # Current handoff
 
+Updated: 2026-10-03T18:13:18+08:00
+Current work: RSTW award and media refresh, authorized by Len's October 3 request in this task.
+The September 27 handoff below is historical; its pending commit/push instructions do not authorize a new push.
+
+## October 3 maintenance
+
+Len supplied the ASU-Kalibo announcement naming AqOne the October 2, 2026 RSTW Student Startup Competition champion in Kalibo.
+The README now highlights the win and the announced October 8-10 Enactus Philippines participation at De La Salle University Manila.
+The announcement is user-supplied evidence; no independent web verification was performed.
+The existing Top 60 claim and founder/lead-developer role were preserved.
+The hero was regenerated from all 13 currently present photographs, starting with rstw-champion.png, followed by rstw2.jpg and Technest.jpg.
+The deleted AI-FEST BANNER.jpg and ENACTUS PUB.png are excluded.
+The reduced-motion source now uses rstw-champion.png.
+The GIF was decoded and checked: 800x600, 26 frames, 44.85 seconds, infinite loop, 5,497,410 bytes.
+The first frame was visually inspected; source photographs were contained without cropping.
+README diff and whitespace checks passed.
+Local image references exist; the three project repository links and live view counter remain present.
+GitHub desktop/narrow-screen rendering remains pending because this change has not been pushed.
+The required len-toolkit start check succeeded and installed 33 skills in each local agent skill folder; those setup changes are excluded from the content commit.
+The repository moved to 01-PORTFOLIO/GITHUB/len-build-it; writes needed sandbox approval because the task still lists the former folder as writable.
+Checkpoint: docs(readme): refresh RSTW championship and photo slideshow.
+Next action: review the local changes and authorize a push when ready.
+Publishing remains for Len to authorize.
+
+## Historical September 27 handoff
+
 Created: 2026-09-27T20:28:43+08:00
 Updated: 2026-09-27T20:36:51+08:00
 State: In progress

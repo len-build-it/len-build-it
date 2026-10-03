@@ -1,5 +1,17 @@
 # FEAT-001: GitHub profile README refresh
 
+## October 3 authorized maintenance amendment
+
+Recorded: 2026-10-03T18:13:18+08:00
+Len explicitly requested refreshing the folder's new/deleted photographs and AqOne's RSTW championship in this task.
+For this maintenance, the prior restriction on changing hero media is superseded by that request.
+Rebuild the existing hero from current photographs, remove deleted images from its content, and preserve the reduced-motion fallback.
+Add the user-supplied October 2 RSTW championship and scheduled October 8-10 Enactus participation.
+Keep project blocks text-only and preserve the approved professional positioning.
+Success: all current photographs appear, deleted photographs are absent, image references resolve, the award and upcoming dates are accurate to the supplied announcement, and no new dependency is introduced.
+
+## Original September 27 specification
+
 Created: 2026-09-27T20:20:38+08:00
 Updated: 2026-09-27T20:31:31+08:00
 Revision: 1
