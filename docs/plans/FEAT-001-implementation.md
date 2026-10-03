@@ -2,6 +2,11 @@
 
 ## October 3 maintenance phase
 
+Follow-up authorized by Len's report that the slideshow looks laggy.
+Compare the pre-refresh GIF metadata, restore its 900x506 dimensions and 1,800 ms hold / two 150 ms fade timings with current photos, and publish using a new filename.
+Local checks passed: 13 photos, 39 frames, 27.3-second loop, 8,112,163 bytes.
+Checkpoint: fix(readme): restore previous slideshow pacing.
+
 Recorded: 2026-10-03T18:13:18+08:00
 Authorization: Len's October 3 request to update the current photographs and add AqOne's RSTW win.
 Implementation and local checks complete.

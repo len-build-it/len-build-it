@@ -6,6 +6,18 @@ The September 27 handoff below is historical; its pending commit/push instructio
 
 ## October 3 maintenance
 
+Latest correction: Len reported the new slideshow looked choppy and preferred the previous implementation.
+Inspected the prior GIF in commit 04c9837: 900x506, ten photographs, 1,800 ms holds, two 150 ms fade frames per photo.
+Restored those dimensions and timings for all 13 current photographs.
+The new profile-hero-rstw-smooth.gif has 39 frames, a 27.3-second loop, and 8,112,163 bytes.
+Decoded frame metadata and total duration passed assertions; the opening frame was visually inspected.
+README now uses the fresh filename to avoid the previously reproduced cache issue.
+The reduced-motion championship image remains available.
+Checkpoint: fix(readme): restore previous slideshow pacing.
+Replace the prior GIF file in the repository; its previous versions remain recoverable in Git history.
+Push under Len's existing publication authorization and verify the new remote GIF bytes.
+The entries below retain the earlier maintenance and cache-fix evidence.
+
 Len supplied the ASU-Kalibo announcement naming AqOne the October 2, 2026 RSTW Student Startup Competition champion in Kalibo.
 The README now highlights the win and the announced October 8-10 Enactus Philippines participation at De La Salle University Manila.
 The announcement is user-supplied evidence; no independent web verification was performed.

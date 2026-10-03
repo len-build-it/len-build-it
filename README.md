@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="rstw-champion.png">
-  <img src="profile-hero-rstw-2026.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
+  <img src="profile-hero-rstw-smooth.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
 </picture>
 
 <sub>RSTW 2026 champions with AqOne, alongside pitching, prototyping, and community-building moments.</sub>
