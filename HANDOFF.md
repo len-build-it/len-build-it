@@ -22,7 +22,8 @@ Following Len's stale-image report, the live profile was inspected: its new READ
 The current GIF is 5,497,410 bytes with SHA256 618AC3FC15DE0DE137631FC1DF56E8BD96444D78AA5FD63234481E9544D2D1EF.
 Rename it to profile-hero-rstw-2026.gif and update the single README reference to give the refreshed asset a new URL.
 Checkpoint: fix(readme): use fresh URL for RSTW photo slideshow.
-Verify the published GIF hash and rendered profile image URL after pushing the fix.
+Fix 0d33723 was pushed successfully.
+Post-push verification passed: the published 5,497,410-byte GIF has the same SHA256 as the local file, and the live profile HTML references /raw/main/profile-hero-rstw-2026.gif.
 Full visual desktop/narrow-screen review remains pending.
 The required len-toolkit start check succeeded and installed 33 skills in each local agent skill folder; those setup changes are excluded from the content commit.
 The repository moved to 01-PORTFOLIO/GITHUB/len-build-it; writes needed sandbox approval because the task still lists the former folder as writable.
