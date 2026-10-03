@@ -1,10 +1,18 @@
 # Current handoff
 
-Updated: 2026-10-03T18:13:18+08:00
-Current work: RSTW award and media refresh, authorized by Len's October 3 request in this task.
+Updated: 2026-10-03T19:45:00+08:00
+Current work: DTI ASPIRE Demo Day photos addition, hero slideshow refresh, and README update, authorized by Len's October 3 request.
 The September 27 handoff below is historical; its pending commit/push instructions do not authorize a new push.
 
 ## October 3 maintenance
+
+Latest addition: Len supplied new photographs (DTI-explaining.jpg and dti-most-innovative.jpg) from the DTI ASPIRE Startup Bootcamp Demo Day at TechNest Kalibo on September 22, 2026, where AqOne won Most Innovative Startup.
+Regenerated the hero animated slideshow to include all 15 active photographs with restored dimensions and pacing (900x506, 1,800 ms hold, two 150 ms fade frames per photo).
+The new profile-hero-rstw-dti.gif has 45 frames, a 31.5-second loop, and 9,362,415 bytes.
+README updated to use the fresh asset URL to bypass CDN caching, updated caption and alt text, and added Most Innovative Startup recognition under AqOne and Building in public.
+Decoded frame metadata, durations, and sample frames (championship, DTI ceremony, DTI whiteboard) passed visual and integrity assertions.
+Replaced profile-hero-rstw-smooth.gif with profile-hero-rstw-dti.gif in the repository.
+Checkpoint: docs(readme): add DTI Demo Day photos and showcase to profile.
 
 Latest correction: Len reported the new slideshow looked choppy and preferred the previous implementation.
 Inspected the prior GIF in commit 04c9837: 900x506, ten photographs, 1,800 ms holds, two 150 ms fade frames per photo.

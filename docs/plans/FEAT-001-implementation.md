@@ -2,6 +2,12 @@
 
 ## October 3 maintenance phase
 
+Follow-up authorized by Len's request to add newly added photographs (DTI-explaining.jpg and dti-most-innovative.jpg) to the repo and update README.md, then commit and push.
+Incorporate both photographs into the animated slideshow with matching 900x506 dimensions and 1,800 ms hold / two 150 ms fade timings across all 15 photos.
+Local checks passed: 15 photos, 45 frames, 31.5-second loop, 9,362,415 bytes.
+README updated with fresh asset URL (profile-hero-rstw-dti.gif) to avoid caching, updated caption/alt text, and DTI ASPIRE Demo Day recognition.
+Checkpoint: docs(readme): add DTI Demo Day photos and showcase to profile.
+
 Follow-up authorized by Len's report that the slideshow looks laggy.
 Compare the pre-refresh GIF metadata, restore its 900x506 dimensions and 1,800 ms hold / two 150 ms fade timings with current photos, and publish using a new filename.
 Local checks passed: 13 photos, 39 frames, 27.3-second loop, 8,112,163 bytes.

@@ -2,13 +2,12 @@
 
 ## October 3 authorized maintenance amendment
 
-Recorded: 2026-10-03T18:13:18+08:00
-Len explicitly requested refreshing the folder's new/deleted photographs and AqOne's RSTW championship in this task.
-For this maintenance, the prior restriction on changing hero media is superseded by that request.
-Rebuild the existing hero from current photographs, remove deleted images from its content, and preserve the reduced-motion fallback.
-Add the user-supplied October 2 RSTW championship and scheduled October 8-10 Enactus participation.
+Recorded: 2026-10-03T19:44:00+08:00
+Len explicitly requested adding new photographs (DTI-explaining.jpg and dti-most-innovative.jpg), updating README.md, committing, and pushing.
+For this maintenance, the hero is refreshed to incorporate all 15 active photographs with smooth pacing (1,800 ms hold, two 150 ms fade frames).
+Add the user-supplied September 22 DTI ASPIRE Demo Day Most Innovative Startup recognition.
 Keep project blocks text-only and preserve the approved professional positioning.
-Success: all current photographs appear, deleted photographs are absent, image references resolve, the award and upcoming dates are accurate to the supplied announcement, and no new dependency is introduced.
+Success: all 15 current photographs appear in the slideshow, image references resolve, the awards are accurate to the supplied photos/announcements, and no new dependency is introduced.
 
 ## Original September 27 specification
 

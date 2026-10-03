@@ -2,10 +2,10 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="rstw-champion.png">
-  <img src="profile-hero-rstw-smooth.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
+  <img src="profile-hero-rstw-dti.gif" width="900" alt="Team Aquanons celebrating AqOne's RSTW 2026 championship and DTI ASPIRE Demo Day win, presenting at RSTW and AI Fest, and Lenard's community and programming activities" />
 </picture>
 
-<sub>RSTW 2026 champions with AqOne, alongside pitching, prototyping, and community-building moments.</sub>
+<sub>RSTW 2026 champions and DTI ASPIRE Most Innovative Startup with AqOne, alongside pitching, prototyping, and community-building moments.</sub>
 
 </div>
 
@@ -31,6 +31,7 @@ An offline maritime safety network and AI-assisted search-and-rescue platform fo
 Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** (out of 200+ entries) in Enactus Philippines 2026.
 
 **Champion - 2026 RSTW Student Startup Competition**, organized by DOST Western Visayas in Kalibo, Aklan, on October 2, 2026.
+**Most Innovative Startup - DTI ASPIRE Startup Bootcamp Demo Day**, held at TechNest Aklan on September 22, 2026.
 Team Aquanons will represent ASU-Kalibo at **Enactus Philippines on October 8-10, 2026**, at De La Salle University Manila.
 
 **My role:** Founder and lead developer for backend, architecture, and deployment.
@@ -62,6 +63,7 @@ I also founded **ASU DevGuild**, a student-led organization at Aklan State Unive
 ## 🏆 Building in public
 
 - **Champion** with AqOne at the **2026 RSTW Student Startup Competition** in Kalibo, Aklan (October 2, 2026).
+- **Most Innovative Startup** with AqOne at the **DTI ASPIRE Startup Bootcamp Demo Day** in Kalibo, Aklan (September 22, 2026).
 - **1st place** at the CCS ICT Days Programming Competition.
 - Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
 - Led and presented projects at hackathons and tech events, including New Energy Nexus and RSC.
