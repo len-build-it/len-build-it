@@ -1,5 +1,12 @@
 # FEAT-001: GitHub profile README refresh
 
+## October 3 AI Fest Hackathon 2nd place amendment
+
+Recorded: 2026-10-03T23:04:00+08:00
+Len explicitly requested adding AqOne's 2nd place finish in the Student Category at the 2026 AI Fest Hackathon (held August 3-5, 2026, at Iloilo Convention Center).
+Updated README.md under AqOne and Building in public to reflect this achievement accurately based on the committee notification.
+Success: award details match the committee notification, formatting remains text-only, and no new dependency is introduced.
+
 ## October 3 RSTW stage photos addition amendment
 
 Recorded: 2026-10-03T22:56:00+08:00

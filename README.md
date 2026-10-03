@@ -32,6 +32,7 @@ Built by Team Aquanons for AI Fest 2026, advancing to the **Top 60 nationwide** 
 
 **Champion - 2026 RSTW Student Startup Competition**, organized by DOST Western Visayas in Kalibo, Aklan, on October 2, 2026.
 **Most Innovative Startup - DTI ASPIRE Startup Bootcamp Demo Day**, held at TechNest Aklan on September 22, 2026.
+**2nd Place - 2026 AI Fest Hackathon (Student Category)**, held at Iloilo Convention Center on August 3-5, 2026.
 Team Aquanons will represent ASU-Kalibo at **Enactus Philippines on October 8-10, 2026**, at De La Salle University Manila.
 
 **My role:** Founder and lead developer for backend, architecture, and deployment.
@@ -64,6 +65,7 @@ I also founded **ASU DevGuild**, a student-led organization at Aklan State Unive
 
 - **Champion** with AqOne at the **2026 RSTW Student Startup Competition** in Kalibo, Aklan (October 2, 2026).
 - **Most Innovative Startup** with AqOne at the **DTI ASPIRE Startup Bootcamp Demo Day** in Kalibo, Aklan (September 22, 2026).
+- **2nd Place** with AqOne at the **2026 AI Fest Hackathon (Student Category)** at Iloilo Convention Center (August 3-5, 2026).
 - **1st place** at the CCS ICT Days Programming Competition.
 - Built **Project Tabang** for KomsaiHack 2026, placing 7th among more than 25 teams.
 - Led and presented projects at hackathons and tech events, including New Energy Nexus and RSC.

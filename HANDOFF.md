@@ -1,12 +1,17 @@
 # Current handoff
 
-Updated: 2026-10-03T22:58:00+08:00
-Current work: RSTW stage awarding and Q&A photos addition, hero slideshow refresh, and README update, authorized by Len's October 3 request.
+Updated: 2026-10-03T23:05:00+08:00
+Current work: AI Fest Hackathon 2nd place recognition addition to README.md, authorized by Len's October 3 request.
 The September 27 handoff below is historical; its pending commit/push instructions do not authorize a new push.
 
 ## October 3 maintenance
 
-Latest addition: Len supplied 2 new photographs (RSTW-Awarding.png and RSTW-QA.png) from the 2026 RSTW Student Startup Competition in Kalibo on October 2, 2026, where AqOne won Champion.
+Latest addition: Len supplied official notification of Team Aquanons' 2nd place win (rank 2 out of 5) in the Student Category at the 2026 AI Fest Hackathon held August 3-5, 2026, at Iloilo Convention Center.
+Updated README.md under Featured builds (AqOne) and Building in public to document the 2nd place award alongside the RSTW championship and DTI ASPIRE win.
+Markdown diff and formatting checks passed.
+Checkpoint: docs(readme): add AI Fest Hackathon 2nd place award to AqOne description.
+
+Prior addition: Len supplied 2 new photographs (RSTW-Awarding.png and RSTW-QA.png) from the 2026 RSTW Student Startup Competition in Kalibo on October 2, 2026, where AqOne won Champion.
 Regenerated the hero animated slideshow to include all 17 active photographs with standard dimensions and smooth pacing (900x506, 1,800 ms hold, two 150 ms fade frames per photo).
 The new profile-hero-rstw-awarding.gif has 51 frames, a 35.7-second loop, and 10,653,051 bytes.
 README updated to reference the fresh asset profile-hero-rstw-awarding.gif to bypass CDN caching, with updated alt text and subcaption.
